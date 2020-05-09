@@ -20,3 +20,22 @@ A Program that decodes the message by converting decimal value to binary and int
 Python code - secret_handshake.py
 
 Julia code  - secret_handshake.jl
+
+
+
+#### Example 1:
+
+Input: 3
+
+Binary Value: 11
+
+Decoded Message: ['Wink', 'Double Wink']
+
+
+#### Example 2:
+
+Input: 19
+
+Binary value: 10011
+
+Decoded Message: ['Double Wink', 'Wink']
