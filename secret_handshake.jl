@@ -1,3 +1,14 @@
+#=
+
+Secret Handshake Decoding table:
+1    - 'Wink'
+10   - 'Double Wink'
+100  - 'Run'
+1000 - 'Jump'
+
+10000 - reverse the message
+
+=#
 
 msg = ["Wink", "Double Wink", "Run", "Jump"]  # storing messages in a list
 decoded_msg = String[]  # initializing list to store decoded messages
