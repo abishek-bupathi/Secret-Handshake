@@ -1,5 +1,5 @@
-# Secret-Handshake
-A Program that decodes the message by converting decimal value to binary and interpreting.
+# Secret Handshake
+A Program that decodes the message by converting decimal number into it's binary value and interpreting 
 
 #### Secret Handshake Decoding table:
 
